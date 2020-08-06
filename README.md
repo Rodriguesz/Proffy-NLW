@@ -3,5 +3,5 @@
 Projeto web desenvolvido na Next Level Week #2
 
 <p align="center">
-https://ibb.co/p33hVkn
+  <img src="https://i.ibb.co/THHWjNr/proffyzada.png" alt="proffyzada" border="0">
 <\p>
