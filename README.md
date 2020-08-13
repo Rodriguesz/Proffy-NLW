@@ -17,6 +17,6 @@
 </p>
 
 <p align="left">
-  <img src="https://i.ibb.co/DgQMWMJ/proffy-4.png" alt="proffy-4" border="0" width="30%">
+  <img src="https://i.ibb.co/DgQMWMJ/proffy-4.png" alt="proffy-4" border="0" width="30%" height="60%">
 </p>
 
