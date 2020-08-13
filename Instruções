@@ -1,0 +1,24 @@
+============================================
+Criação de servidor
+============================================
+no terminal digite: npm init -y                   | responsavel por gerencia pacotes - node package manager, -y é a raiz do projeto
+npm install express                               | instala biblioteca express
+
+criar um server.js na pasta src                   |
+
+para rodar o server.js: node src/server.js
+
+npm install nodemon -D                            | facilita a reinicialização do servidor (somente na fase de desenvolvimento)
+
+npm install nunjucks                              | "Turbina o html"
+=============================================
+Criar banco de dados
+=============================================
+npm install sqlite-async                          | criar uma pasta chamada database na pasta src e criar um arqui
+
+=============================================
+Rodar a aplicação
+=============================================
+npm run dev                                       | digitar o comando no bash terminal
+
+Colocar 127.0.0.1:5500 no navegador
