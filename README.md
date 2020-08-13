@@ -1,6 +1,19 @@
 # Proffy 
 
 #### Projeto web desenvolvido na Next Level Week #2
+<p></p>
+
+## Tecnologias utilizadas
+HTML
+CSS
+JavaScript
+Node.js
+Express
+Nunjucks
+SQLite
+
+## Iniciando a aplicação
+- npm run dev
 
 ## Preview
 <p align="left" >
