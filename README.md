@@ -1,6 +1,6 @@
 # Proffy 
 
-##### Projeto web desenvolvido na Next Level Week #2
+#### Projeto web desenvolvido na Next Level Week #2
 
 ## Preview
 <p align="left" >
