@@ -1,4 +1,4 @@
-# Proffy (EM DESENVOLVIMENTO)
+# Proffy 
 
 Projeto web desenvolvido na Next Level Week #2
 
