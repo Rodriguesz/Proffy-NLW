@@ -4,8 +4,8 @@
 <p></p>
 
 ## Tecnologias utilizadas
-HTML
-CSS
+HTML <br\>
+CSS <br\>
 JavaScript
 Node.js
 Express
