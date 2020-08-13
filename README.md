@@ -1,8 +1,8 @@
 # Proffy 
 
-## Projeto web desenvolvido na Next Level Week #2
+# Projeto web desenvolvido na Next Level Week #2
 
-### Preview
+## Preview
 <p align="center">
   <img src="https://i.ibb.co/KrjbDmy/proffy-1.png" alt="proffy-1" border="0">
 </p>
