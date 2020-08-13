@@ -13,7 +13,7 @@ Nunjucks <br>
 SQLite
 
 ## Iniciando a aplicação
- Digitar *npm run dev* no bash terminal
+ Digitar *npm run dev* no bash terminal <br>
  Inserir *http://localhost:5500* no navegador 
 
 ## Preview
