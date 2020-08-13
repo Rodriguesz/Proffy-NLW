@@ -1,19 +1,19 @@
 # Proffy 
 
 #### Projeto web desenvolvido na Next Level Week #2
-<p></p>
+<p>Proffy é uma plataforma de estudos online onde é possivel estudar ou dar aulas.</p>
 
 ## Tecnologias utilizadas
 HTML <br>
-CSS <br>
-JavaScript
-Node.js
-Express
-Nunjucks
+CSS  <br>
+JavaScript <br>
+Node.js <br>
+Express <br>
+Nunjucks <br>
 SQLite
 
 ## Iniciando a aplicação
-- npm run dev
+ Digitar *npm run dev* no bash terminal
 
 ## Preview
 <p align="left" >
